@@ -1,0 +1,28 @@
+name: arcadiachorale
+favicon: null
+layout_spectrum: 0.12722240597940981
+typography_spectrum: 0.6450897373724729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5926633574999869
+  lightness: 0.6982951771933585
+  saturation: 0.9812147931661457
+  rhythmicContrast: 0.6837148449849337
+purpose: []
